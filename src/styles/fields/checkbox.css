@@ -18,6 +18,7 @@
     all: unset;
     position: absolute;
     inset: 0;
+    cursor: pointer;
   }
 
   .checkbox-image {

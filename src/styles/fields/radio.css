@@ -24,6 +24,7 @@ label+.radio-wrapper {
     all: unset;
     position: absolute;
     inset: 0;
+    cursor: pointer;
   }
 
   .radio-image {
